@@ -1,3 +1,4 @@
+import Input from '../components/Input';
 import Todob from '../components/Todob';
 
 function Todoapp(){
